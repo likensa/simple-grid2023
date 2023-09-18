@@ -34,7 +34,7 @@ h1, h2{
   /* 6. Add a background color of #91f321 */
   background-color: #91f321;
   /* 7. Give it a background image using the image in the images folder */
-  background-image: url("/images/background.jpg");
+  background-image: url("../images/background.jpg");
   /* 8. Add a solid black 3px border */
   border: 3px solid black; 
   /* 9. Round the corners */
